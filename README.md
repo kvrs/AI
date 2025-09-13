@@ -97,3 +97,6 @@ Goal: The model learns patterns, terminology, and knowledge unique to your busin
 2. Cost-effective → Retrieve only relevant facts instead of embedding everything into model weights.
 3.Access control → Add permissions/filters at query time → only show what each user is allowed to see.
 4.Flexible → Can work with mixed data sources (PDFs, databases, docs, etc.).
+
+
+#### Key Benefits of RAG
