@@ -77,7 +77,7 @@ But: this approach does not scale when you have hundreds of thousands of documen
 3. Low latency → Faster because the LLM processes only small, relevant parts instead of huge documents.
 4. Accuracy → Ensures answers are grounded in the right documents instead of relying on the user to decide what to feed in.
 
-#### RAG vs. fine-tuning
+## RAG vs. fine-tuning
 Fine-tuning (What it is)? 
 1.Take a pre-trained LLM and train it further on your domain data.
 Goal: The model learns patterns, terminology, and knowledge unique to your business.
