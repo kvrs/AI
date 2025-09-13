@@ -99,4 +99,4 @@ Goal: The model learns patterns, terminology, and knowledge unique to your busin
 4.Flexible → Can work with mixed data sources (PDFs, databases, docs, etc.).
 
 
-#### Key Benefits of RAG
+## Key Benefits of RAG
