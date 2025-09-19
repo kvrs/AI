@@ -100,3 +100,22 @@ Goal: The model learns patterns, terminology, and knowledge unique to your busin
 
 
 ## Key Benefits of RAG
+
+
+
+
+
+
+
+
+
+
+
+
+## RAG at scale 
+
+When your RAG application grows in scale, things can become more complex relatively quickly. You had to deal with higher volume of documents and queries, multiple document formats, integrating advanced retrieval mechanisms to maintain high quality responses, hallucination mitigation, guardrails and a lot more
+
+
+#### Volume and Complexity of Documents
+
